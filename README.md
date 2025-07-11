@@ -49,6 +49,7 @@ SPDX-License-Identifier: FSFAP
 
 [#]: # (2025-07-11:)
 [#]: # ( * Email: IDIBELL -> UB.)
+[#]: # ( * Citation: SCALPEL preprint -> SCALPEL paper.)
 [#]: # (2024-12-12:)
 [#]: # ( * Initial version:)
 [#]: # (   * Header comments.)
@@ -148,12 +149,13 @@ The scr⁴eam paper is still a work in progress and will be published as a
 pre-print soon.
 
 Meanwhile, if you use scr⁴eam, please reference this repository and consider
-citing the following pre-print:
+citing the following paper that uses (and briefly introduces) scr⁴eam:
 
 > **Quantification of transcript isoforms at the single-cell level using SCALPEL**  
-> Franz Ake, Sandra M. Fernández-Moya, Marcel Schilling, Akshay Jaya Ganesh, Ana
+> Franz Ake, Marcel Schilling, Sandra M. Fernández-Moya, Akshay Jaya Ganesh, Ana
 > Gutiérrez-Franco, Lei Li, Mireya Plass  
-> bioRxiv 2024.06.21.600022; doi: https://doi.org/10.1101/2024.06.21.600022
+> Nat Commun* 16, 6402 (2025).
+> [doi://10.1038/s41467-025-61118-0](https://doi.org/10.1038/s41467-025-61118-0)
 
 
 ## Documentation of individual scripts
