@@ -1,13 +1,13 @@
 #!/bin/sh
 #
-# SPDX-FileCopyrightText: 2024 Marcel Schilling <mschilling@idibell.cat>
+# SPDX-FileCopyrightText: 2024, 2025 Marcel Schilling <mschilling@ub.edu>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Hex-sticker generation & optimization  shell script for `scr4eam` scRNA-seq
 # simulation pipeline.
 #
-# Copyright (C) 2024  Marcel Schilling
+# Copyright (C) 2024, 2025  Marcel Schilling
 #
 # This file is part of `scr4eam`.
 #
@@ -29,18 +29,20 @@
 # General information #
 #######################
 
-# File:    hexsticker.sh
-# Created: 2024-12-12
-# Author:  Marcel Schilling <mschilling@idibell.cat>
-# License: GNU Affero General Public License Version >= 3.0 (GNU AGPL v3+)
-# Purpose: Generate a hex-sticker for the `scr4eam` scRNA-seq read simulation
-#          pipeline and optimize the resulting SVG file.
+# File:     hexsticker.sh
+# Created:  2024-12-12
+# Modified: 2025-07-11
+# Author:   Marcel Schilling <mschilling@ub.edu>
+# License:  GNU Affero General Public License Version >= 3.0 (GNU AGPL v3+)
+# Purpose:  Generate a hex-sticker for the `scr4eam` scRNA-seq read simulation
+#           pipeline and optimize the resulting SVG file.
 
 
 #####################################
 # Changelog (reverse chronological) #
 #####################################
 
+# 2025-07-11: Email: IDIBELL -> UB.
 # 2024-12-12: Initial working version with hard-coded parameters.
 
 

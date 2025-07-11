@@ -1,12 +1,12 @@
 <!--
-SPDX-FileCopyrightText: 2024 Marcel Schilling <mschilling@idibell.cat>
+SPDX-FileCopyrightText: 2024, 2025 Marcel Schilling <mschilling@ub.edu>
 
 SPDX-License-Identifier: FSFAP
 -->
 
 [#]: # (README Markdown file for `scr4eam` scRNA-seq read simulation pipeline.)
 [#]: #
-[#]: # (Copyright [C] 2024  Marcel Schilling <mschilling@idibell.cat>)
+[#]: # (Copyright [C] 2024, 2025  Marcel Schilling <mschilling@ub.edu>)
 [#]: #
 [#]: # (This file is part of `scr4eam`.)
 [#]: #
@@ -35,17 +35,20 @@ SPDX-License-Identifier: FSFAP
 [#]: # ( General Information )
 [#]: # (#####################)
 
-[#]: # (File:    README.md)
-[#]: # (Created: 2024-12-12)
-[#]: # (Author:  Marcel Schilling <mschilling@idibell>)
-[#]: # (License: GNU All-Permissive License)
-[#]: # (Purpose: Document `scr4eam` script collection.)
+[#]: # (File:     README.md)
+[#]: # (Created:  2024-12-12)
+[#]: # (Modified: 2025-07-11)
+[#]: # (Author:   Marcel Schilling <mschilling@ub.edu>)
+[#]: # (License:  GNU All-Permissive License)
+[#]: # (Purpose:  Document `scr4eam` script collection.)
 
 
 [#]: # (###################################)
 [#]: # ( Changelog [reverse chronological] )
 [#]: # (###################################)
 
+[#]: # (2025-07-11:)
+[#]: # ( * Email: IDIBELL -> UB.)
 [#]: # (2024-12-12:)
 [#]: # ( * Initial version:)
 [#]: # (   * Header comments.)

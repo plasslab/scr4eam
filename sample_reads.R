@@ -1,12 +1,12 @@
 #!/usr/bin/env Rscript
 #
-# SPDX-FileCopyrightText: 2024 Marcel Schilling <mschilling@idibell.cat>
+# SPDX-FileCopyrightText: 2024, 2025 Marcel Schilling <mschilling@ub.edu>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Read sampling R script for `scr4eam` scRNA-seq read simulation pipeline.
 #
-# Copyright (C) 2024  Marcel Schilling
+# Copyright (C) 2024, 2025  Marcel Schilling
 #
 # This file is part of `scr4eam`.
 #
@@ -28,18 +28,21 @@
 # General information #
 #######################
 
-# File:    sample_reads.R
-# Created: 2024-12-12
-# Author:  Marcel Schilling <mschilling@idibell.cat>
-# License: GNU Affero General Public License Version >= 3.0 (GNU AGPL v3+)
-# Purpose: Sample (relative) read coordinates for `scr4eam` based on given iDGE
-#          and read/fragment distributions extracted from reference scRNA-seq data.
+# File:     sample_reads.R
+# Created:  2024-12-12
+# Modified: 2025-07-11
+# Author:   Marcel Schilling <mschilling@ub.edu>
+# License:  GNU Affero General Public License Version >= 3.0 (GNU AGPL v3+)
+# Purpose:  Sample (relative) read coordinates for `scr4eam` based on given
+#           iDGE and read/fragment distributions extracted from reference
+#           scRNA-seq data.
 
 
 #####################################
 # Changelog (reverse chronological) #
 #####################################
 
+# 2025-07-11: Email: IDIBELL -> UB.
 # 2024-12-12: Initial working version.
 
 
